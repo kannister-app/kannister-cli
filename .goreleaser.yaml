@@ -14,8 +14,8 @@ builds:
       - windows
       - darwin
 
-universal_binaries:
-  - replace: true
+# universal_binaries:
+#   - replace: true
 
 brews:
   - name: kannister
