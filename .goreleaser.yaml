@@ -21,6 +21,7 @@ brews:
     tap:
       owner: kannister-app
       name: homebrew-kannister
+      token: "{{ .Env.TAP_GITHUB_TOKEN }}"
 
 archives:
   - format: tar.gz
