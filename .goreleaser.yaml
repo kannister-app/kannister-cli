@@ -17,7 +17,7 @@ builds:
 brews:
   - name: kannister
     description: "The kannister.app installer cli."
-    homepage: https://github.com/kannister.app/kannister-cli
+    homepage: https://github.com/kannister-app/kannister-cli
     tap:
       owner: kannister.app
       name: homebrew-kannister
